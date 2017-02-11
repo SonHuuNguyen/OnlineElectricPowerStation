@@ -1,0 +1,17 @@
+body {
+	background-color: rgba(102, 102, 51,1);
+	height: 700px;
+}
+#form-login {
+	height: 700px;
+	margin-top: 150px;
+}
+#form-center {
+	background-color: #FFF;
+	height: 280px;
+	box-shadow: 5px 5px 5px black;
+	padding-top: 30px;
+}
+form {
+	margin:auto;
+}

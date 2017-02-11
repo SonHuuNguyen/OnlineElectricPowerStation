@@ -1,0 +1,10 @@
+.not-active {
+   pointer-events: auto;
+  /* cursor: default;*/
+}
+#mod-form{
+	width: 500px;
+}
+#name, #address, #phone, #sel1 { 
+ width: 98.5%;
+ }
